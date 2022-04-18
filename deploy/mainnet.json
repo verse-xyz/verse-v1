@@ -1,0 +1,7 @@
+{
+  "chain": "mainnet",
+  "bondingCurve": "0xEEc8c2f1C099cB7a8C10D2C15dEfa68c5Cab2f4C",
+  "pairFactory": "0x519204EC6318320842843D84aD1d776E905a73aA",
+  "exchangeLogic": "0x7021B6dDd3cc8b3370515CE3F42315D913700f60",
+  "hyperobjectLogic": "0xD521C8ADa6C652b53900A5CB1C9693D671F671B9"
+}
