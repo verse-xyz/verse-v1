@@ -33,5 +33,3 @@ Perhaps most importantly, Verse enables digital objects to live autonomously, an
 
 The scope of digital objects is impossible to comprehend, but one thing is certain. They will fundamentally transform the construction of the internet, affecting our relationships with media, culture, digital infrastructure, identity, and more. **Verse is a hyperexchange: a hyperstructure enabling the autonomous exchange of digital objects and creating a composable, infinite internet.**
 
-
-# verse-v1
